@@ -3,7 +3,12 @@
  Reddit “aww” posts app Listing and search engine sample app that implement MVVM using clean architecture 
  android architecture component RxJava, dagger2, unit test and paging/errors handling.
  
- 
+ I create this repo for a few reasons:
+
+  1. Get feedback from other developers to improve my code
+  2. To understand architecture component in sample way 
+  3. To apply what I have learned
+  4. To use as starting point for future projects
  
  
  # Libraries and tools used
