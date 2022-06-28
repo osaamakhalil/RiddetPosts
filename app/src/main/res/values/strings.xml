@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RedditPost</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="no_internet_connection">No Internet Connection !</string>
+    <string name="try_again">Try Again</string>
+    <string name="server_error">Server Error</string>
+    <string name="post_image">post Image</string>
+    <string name="posted_by_u">Posted by u/</string>
+    <string name="comments">Comments</string>
+    <string name="play_button_image">play button image</string>
+    <string name="award">award</string>
+    <string name="clear_all">Clear All</string>
+    <string name="back_arrow">back arrow</string>
+</resources>
